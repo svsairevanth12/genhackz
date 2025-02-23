@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import OpeningAnimation from "./components/OpeningAnimation";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
